@@ -1,7 +1,7 @@
 # AmazonS3
 Minio using .NET 5.0  and  .Net Core REST API . MinIO Client SDK provides higher level APIs for MinIO and Amazon S3 compatible cloud storage services
 # MinIO SDK Using REST API  for .NET 
-The project is based on SDK Minio and is a REST API in .NET Core and .NET 5 versions.
+The project is based on  MinIO SDK and is a REST API in .NET Core and .NET 5 versions.
 
 ## Target
  * .NET CORE | .NET 5.0
