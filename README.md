@@ -105,7 +105,7 @@ Method : post
     "type": 0 // id from enum 
   }
 ```
-##### Get Project 
+##### Clone Project 
 
 ```
 $ git clone https://github.com/AlexGreatDev/AmazonS3 && cd minio-AmazonS3
